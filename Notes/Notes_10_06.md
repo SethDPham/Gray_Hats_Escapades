@@ -49,3 +49,5 @@
 ### Socket Practice
     nc 107.170.192.50 1900
 Practice with sockets on the LittleKoala network
+
+	Reading: http://bt3gl.github.io/black-hat-python-networking-the-socket-module.html
